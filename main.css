@@ -62,4 +62,20 @@ a {
 section {
     padding-left: 8rem;
     margin: auto;
+    margin-bottom: 10rem
+}
+
+.newspaper-signup {
+    width: 100%;
+}
+
+.footer-section {
+    background-color: #1c1c1c;
+    height: 60rem;
+}
+
+.top-bar {
+    text-align: right;
+    background-color: #1c1c1c;
+    color: white;
 }
